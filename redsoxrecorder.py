@@ -9,8 +9,8 @@ date = datetime.datetime.now().strftime("%m-%d-%Y")
 time = datetime.datetime.now().strftime("%H:%M")
 
 RECORD_TIME = "03:30:00"
-MLB_ACCOUNT_USERNAME = "ajohman@gmail.com"
-MLB_ACCOUNT_PASSWORD = "Josh123EU"
+MLB_ACCOUNT_USERNAME = "*"
+MLB_ACCOUNT_PASSWORD = "*"
 OUTPUT_FILE_PATH = "./games/redsox_{0}.mp3".format(date)
 
 driver = webdriver.Chrome()
