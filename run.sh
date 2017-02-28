@@ -1,2 +1,2 @@
 #!/bin/bash
-python record_game.py
+python redsoxrecorder.py
